@@ -1,0 +1,1 @@
+Get-Mailbox -ResultSize unlimited -Filter {(RecipientTypeDetails -eq 'SharedMailbox')} | set-mailbox -MessageCopyForSentAsEnabled $True

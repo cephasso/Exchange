@@ -1,0 +1,1 @@
+Set-UnifiedGroup "Group Name" -HiddenFromAddressListsEnabled $true

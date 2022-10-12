@@ -1,0 +1,1 @@
+get-inboxrule -mailbox cephas.so@riveron.com
